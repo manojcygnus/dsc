@@ -4,7 +4,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import LabelEncoder, StandardScaler
 import tensorflow as tf
 
-def load_data(file_path='content/drive/MyDrive/Dsc Files/ACI-IoT-2023.csv'):
+def load_data(file_path):
     """
     Load and preprocess the IoT dataset
     
