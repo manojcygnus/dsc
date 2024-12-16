@@ -1,6 +1,13 @@
-__pycache__/
-*.pyc
-.DS_Store
-data/ACI-IoT-2023.csv
-*.ipynb_checkpoints
-
+../.gitignore
+../ACI sample data.xlsx
+../ACI-IoT-2023-Payload.csv
+../ACI-IoT-2023-README.docx
+../ACI-IoT-2023-README.txt
+../Doubts and Notes.txt
+../Files/
+../ManojSankuru_DSC550ProjectReport.docx
+../Project Complete code.txt
+../Timesheets/
+../dashboard.py
+../pcap_combined/
+../~$nojSankuru_DSC550ProjectReport.docx
