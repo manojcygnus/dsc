@@ -5,7 +5,7 @@ from src.evaluation import plot_training_metrics
 
 def main():
     # File path for dataset
-    file_path = 'content/drive/MyDrive/Dsc Files/ACI-IoT-2023.csv'
+    file_path = '/content/drive/MyDrive/Dsc Files/ACI-IoT-2023.csv'
 
     # Load and preprocess data
     X, y, encoder = load_data(file_path)
