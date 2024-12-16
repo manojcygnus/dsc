@@ -1,4 +1,4 @@
-from src.data_preprocessing import load_data, split_data
+from src.data-preprocessing import load_data, split_data
 from src.model import create_mlp_model
 from src.train import train_model
 from src.evaluation import plot_training_metrics
