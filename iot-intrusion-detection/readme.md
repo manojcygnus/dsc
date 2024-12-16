@@ -15,7 +15,7 @@ The dataset used for this project is the **ACI-IoT-2023.csv** file, which is hos
 
 You can access the dataset using the following link:
 
-[Download ACI-IoT-2023.csv from Google Drive](https://drive.google.com/uc?export=download&id=1aKL_ixZXl7-xbE9ibP7dO42WCUbyWCkR)
+[Download ACI-IoT-2023.csv from Google Drive](https://drive.google.com/file/d/1aKL_ixZXl7-xbE9ibP7dO42WCUbyWCkR/view?usp=drive_link)
 
 To use this dataset in your local environment, simply reference the dataset URL in your code, as shown in the following example:
 
